@@ -1,0 +1,1 @@
+print("rajendar\n\ttech")

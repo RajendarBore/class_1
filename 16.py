@@ -1,0 +1,1 @@
+print("rajendar", "tech")
