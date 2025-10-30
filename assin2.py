@@ -68,5 +68,5 @@ bill=bill+discountAmount.
         not valid
     xix)Break=10
         valid
-    xxii)3000=x
+xxii)3000=x
         not valid
