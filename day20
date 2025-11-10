@@ -1,0 +1,3 @@
+a = chr(int(input("enter any no :")))
+print(a)
+
