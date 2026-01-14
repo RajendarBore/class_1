@@ -1,1 +1,0 @@
-print("rajendar\n\ttech")
